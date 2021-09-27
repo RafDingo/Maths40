@@ -1,5 +1,5 @@
 # Maths40 Project Repo
-👋 Hey! Welcome to pur project repo. 
+👋 Hey! Welcome to our project repo. 
 ## 📚 Dataset
 Breif desc of dataset
 ## 🔬 Aim
