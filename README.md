@@ -1,8 +1,8 @@
 # Maths40 Project Repo
 👋 Hey! Welcome to our project repo. 
-## 📚 Dataset
-###Brief description of dataset
-###Columns
+## 📚 Dataset ##
+### Brief description of dataset ###
+### Columns ###
 * sy_snum:        Number of Stars
 * sy_pnum:        Number of Planets
 * sy_mnum:        Number of Moons
