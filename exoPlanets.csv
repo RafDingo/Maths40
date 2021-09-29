@@ -1,36 +1,3 @@
-# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
-# Wed Sep 29 02:43:45 2021
-#
-# User preference: *
-#
-# COLUMN sy_snum:        Number of Stars
-# COLUMN sy_pnum:        Number of Planets
-# COLUMN sy_mnum:        Number of Moons
-# COLUMN cb_flag:        Circumbinary Flag
-# COLUMN pl_orbper:      Orbital Period [days]
-# COLUMN pl_orbsmax:     Orbit Semi-Major Axis [au])
-# COLUMN pl_rade:        Planet Radius [Earth Radius]
-# COLUMN pl_bmasse:      Planet Mass or Mass*sin(i) [Earth Mass]
-# COLUMN pl_dens:        Planet Density [g/cm**3]
-# COLUMN pl_orbeccen:    Eccentricity
-# COLUMN pl_insol:       Insolation Flux [Earth Flux]
-# COLUMN pl_eqt:         Equilibrium Temperature [K]
-# COLUMN ttv_flag:       Data show Transit Timing Variations
-# COLUMN st_spectype:    Spectral Type
-# COLUMN st_teff:        Stellar Effective Temperature [K]
-# COLUMN st_rad:         Stellar Radius [Solar Radius]
-# COLUMN st_mass:        Stellar Mass [Solar mass]
-# COLUMN st_metratio:    Stellar Metallicity Ratio
-# COLUMN st_lum:         Stellar Luminosity [log(Solar)]
-# COLUMN st_logg:        Stellar Surface Gravity [log10(cm/s**2)]
-# COLUMN st_age:         Stellar Age [Gyr]
-# COLUMN st_rotp:        Stellar Rotational Period [days]
-# COLUMN glat:           Galactic Latitude [deg]
-# COLUMN glon:           Galactic Longitude [deg]
-# COLUMN sy_pmdec:       Proper Motion (Dec) [mas/yr]
-# COLUMN sy_dist:        Distance [pc]
-# COLUMN sy_plx:         Parallax [mas]
-#
 loc_rowid,sy_snum,sy_pnum,sy_mnum,cb_flag,pl_orbper,pl_orbsmax,pl_rade,pl_bmasse,pl_dens,pl_orbeccen,pl_insol,pl_eqt,ttv_flag,st_spectype,st_teff,st_rad,st_mass,st_metratio,st_lum,st_logg,st_age,st_rotp,glat,glon,sy_pmdec,sy_dist,sy_plx
 1,2,1,0,0,326.03000000,1.290000,12.100,6165.60000,19.100000,0.231000,,,0,G8 III,4742.00,19.00,2.70,[Fe/H],2.243,2.31,,,78.28058,264.13775,88.1701000,93.1846000,10.7104000
 2,1,1,0,0,516.21997000,1.530000,12.300,4684.81420,13.800000,0.080000,,,0,K4 III,4213.00,29.79,2.78,[Fe/H],2.430,1.93,1.560,,41.04437,108.71900,10.1132000,125.3210000,7.9538800
